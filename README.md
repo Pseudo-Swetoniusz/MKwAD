@@ -22,3 +22,9 @@ wyników pracy
 właściwej dokumentacji projektu
 7. Dokumentacja, testowanie i pomniejsze poprawki
 8. Ostatnie poprawki. Ostateczna prezentacja osiągniętych wyników
+
+## 4. Wykorzystane źródła:
+1. Referencyjna implementacja BIKE: https://bikesuite.org/#implementation
+2. Biblioteka NTL: https://libntl.org/
+3. Keccak: https://github.com/XKCP/XKCP
+3. Implementacja arytmetyki wielomianowej: https://gist.github.com/mildsunrise/e21ae2b1649532813f2594932f9e9371
